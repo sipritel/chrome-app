@@ -1,4 +1,6 @@
-chrome-app
-==========
+# [SIPRitel](http://www.sipritel.com)
 
-SIP-Ritel Chrome Application
+SIPRitel Chrome App adalah solusi aplikasi Sales, Inventory & Purchase
+yang dirancang untuk kebutuhan usaha ritel.
+
+## Changelogs
